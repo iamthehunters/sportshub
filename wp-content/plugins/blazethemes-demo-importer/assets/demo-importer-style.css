@@ -1,0 +1,307 @@
+.blazethemes-demo-importer-modal {
+    border: 1px solid #eee;
+    background: #fff;
+    margin-top: 30px;
+}
+
+.blazethemes-demo-importer-modal-header {
+    position: relative;
+    padding: 15px 30px;
+    font-size: 14px;
+    margin: 0;
+    line-height: 1.4;
+    background: #ffffff;
+    border-bottom: 1px solid #eee;
+}
+
+.blazethemes-demo-importer-modal-header h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.blazethemes-demo-importer-modal-header .blazethemes-demo-importer-modal-back {
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px solid #EEE;
+    height: 48px;
+    width: 48px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.blazethemes-demo-importer-modal-header .blazethemes-demo-importer-modal-back .dashicons {
+    line-height: 48px;
+    opacity: 0.8;
+    display: inline-block;
+    font-size: 22px;
+}
+
+.blazethemes-demo-importer-modal-wrap {
+    padding: 30px;
+}
+
+.blazethemes-demo-importer-modal-wrap p {
+    margin: 0 0 15px;
+    padding: 0;
+}
+
+.blazethemes-demo-importer-modal-recommended-plugins h4,
+.blazethemes-demo-importer-reset-checkbox h4 {
+    margin: 30px 0 15px;
+    font-size: 16px;
+}
+
+.blazethemes-demo-importer-modal-recommended-plugins ul {
+    margin: 0 0 15px;
+    padding: 0;
+}
+
+.blazethemes-demo-importer-modal-recommended-plugins ul li {
+    margin-bottom: 10px;
+}
+
+.blazethemes-demo-importer-plugin-status li .dashicons-warning,
+.blazethemes-demo-importer-plugin-status .blazethemes-demo-importer-inactive i{
+    color: #ffb900;
+}
+
+.blazethemes-demo-importer-plugin-status li .dashicons-dismiss,
+.blazethemes-demo-importer-plugin-status .blazethemes-demo-importer-install i{
+    color: #c00;
+}
+
+.blazethemes-demo-importer-plugin-status li .dashicons-yes-alt,
+.blazethemes-demo-importer-plugin-status .blazethemes-demo-importer-active i{
+    color: #46b450;
+}
+
+.blazethemes-demo-importer-reset-checkbox {
+    margin: 30px 0;
+    border: 2px solid #EEE;
+    padding: 20px;
+}
+
+.blazethemes-demo-importer-reset-checkbox h4{
+    margin: 0 0 15px;
+}
+
+.blazethemes-demo-importer-reset-website-checkbox{
+    color: #FF0000;
+}
+
+#blazethemes-demo-importer-import-progress {
+    background: #FFF;
+    text-align: center;
+    margin-top: 25px;
+}
+
+#blazethemes-demo-importer-import-progress .blazethemes-demo-importer-import-progress-header {
+    padding: 15px;
+    border-bottom: 1px solid #EEE;
+    margin: 0;
+}
+
+.blazethemes-demo-importer-import-progress-wrap {
+    padding: 40px;
+}
+
+#blazethemes-demo-importer-import-progress .blazethemes-demo-importer-import-loader svg {
+    display: none;
+}
+
+#blazethemes-demo-importer-import-progress.import-success .blazethemes-demo-importer-import-loader svg {
+    display: block;
+}
+
+#blazethemes-demo-importer-import-progress.import-success .blazethemes-demo-importer-import-loader img {
+    display: none;
+}
+
+#blazethemes-demo-importer-import-progress .blazethemes-demo-importer-import-progress-message {
+    font-size: 20px;
+    margin-top: 50px;
+    line-height: 1.4;
+}
+
+.blazethemes-demo-importer-import-progress-message .button {
+    margin: 0 4px;
+}
+
+body.blazethemes-demo-importer-modal-opened .blazethemes-demo-importer-tab-filter,
+body.blazethemes-demo-importer-modal-opened .blazethemes-demo-importer-demo-box-wrap{
+    display: none;
+}
+
+.blazethemes-demo-importer-loader-content {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border: 5px solid #00adff;
+    border-radius: 100%;
+}
+
+.blazethemes-demo-importer-loader-content-inside {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.blazethemes-demo-importer-loader-rotater {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    animation: blazethemes-demo-importer-rotate 3s linear infinite 1s;
+}
+
+.blazethemes-demo-importer-loader-rotater:before {
+    content: "";
+    position: absolute;
+    top: 0x;
+    left: 50%;
+    margin-left: -4px;
+    height: 8px;
+    width: 8px;
+    background: #00adff;
+    border-radius: 100%;
+}
+
+.blazethemes-demo-importer-loader-line-point {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 24px;
+    height: 24px;
+    transition: height 0.15s ease 0.45s;
+}
+
+.blazethemes-demo-importer-loader-line-point:before,
+.blazethemes-demo-importer-loader-line-point:after {
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 30px;
+    bottom: -8px;
+    background: #00adff;
+    border-radius: 10px;
+    transition: transform 0.1s ease 0.5s, left 0.1s ease 0.5s, right 0.1s ease 0.5s;
+}
+
+.blazethemes-demo-importer-loader-line-point:before {
+    right: 0px;
+    transform: rotate(45deg);
+}
+
+.blazethemes-demo-importer-loader-line-point:after {
+    left: 0px;
+    transform: rotate(-45deg);
+}
+
+.import-success .blazethemes-demo-importer-loader-content {
+    animation: blazethemes-demo-importer-border-color 0.25s forwards 1s;
+}
+
+.import-success .blazethemes-demo-importer-loader-rotater {
+    display: none;
+}
+
+.import-success .blazethemes-demo-importer-loader-line-point:after {
+    transform: rotate(-90deg);
+    left: -4px;
+    animation: blazethemes-demo-importer-check-left 0.25s forwards 1s;
+}
+
+.import-success .blazethemes-demo-importer-loader-line-point:before {
+    transform: rotate(90deg);
+    right: -4px;
+    animation: blazethemes-demo-importer-check-right 0.25s forwards 1s;
+}
+
+.import-error .blazethemes-demo-importer-loader-rotater {
+    animation: none;
+}
+
+@keyframes blazethemes-demo-importer-check-left {
+    0% {
+        transform: rotate(-90deg);
+        left: -4px;
+        height: 30px;
+        bottom: -8px;
+    }
+    100% {
+        transform: rotate(-45deg);
+        left: -5px;
+        height: 20px;
+        bottom: -5px;
+        background: #4BB543;
+    }
+}
+
+@keyframes blazethemes-demo-importer-check-right {
+    0% {
+        transform: rotate(90deg);
+        right: -4px;
+        height: 30px;
+        bottom: -8px;
+    }
+    100% {
+        transform: rotate(45deg);
+        right: 4px;
+        height: 40px;
+        bottom: -10px;
+        background: #4BB543;
+    }
+}
+
+@keyframes blazethemes-demo-importer-border-color {
+    0% {
+        border: 6px solid #00adff;
+    }
+    100% {
+        border: 6px solid #4BB543;
+    }
+}
+
+@keyframes blazethemes-demo-importer-rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.blazethemes-demo-importer-import-progress-message:after {
+    content: '.';
+    animation: dots 1s linear infinite;
+}
+
+.import-error .blazethemes-demo-importer-import-progress-message:after,
+.import-success .blazethemes-demo-importer-import-progress-message:after {
+    content: '';
+    animation: none;
+}
+
+@keyframes dots {
+    0%,
+    20% {
+        color: rgba(0, 0, 0, 0);
+        text-shadow: .25em 0 0 rgba(0, 0, 0, 0), .5em 0 0 rgba(0, 0, 0, 0);
+    }
+    40% {
+        color: #444;
+        text-shadow: .25em 0 0 rgba(0, 0, 0, 0), .5em 0 0 rgba(0, 0, 0, 0);
+    }
+    60% {
+        text-shadow: .25em 0 0 #444, .5em 0 0 rgba(0, 0, 0, 0);
+    }
+    80%,
+    100% {
+        text-shadow: .25em 0 0 #444, .5em 0 0 #444;
+    }
+}

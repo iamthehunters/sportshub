@@ -1,0 +1,1470 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: News Cast\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-05 08:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: news-cast"
+
+#. %s: search query.
+#: search.php:23
+#, php-format
+msgid "%1$s %2$1s"
+msgstr ""
+
+#. 1: list of categories.
+#. 1: list of tags.
+#: inc/template-tags.php:111 inc/template-tags.php:128
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:121
+msgid ""
+"Activate Blazethemes Demo Importer Now and Import any available demo in One "
+"Click"
+msgstr ""
+
+#: inc/customizer/sections/header.php:82
+msgid "Ad Banner Image"
+msgstr ""
+
+#: inc/customizer/sections/header.php:101
+msgid "Ad Link"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:119
+msgid "Add author description here.."
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:101
+msgid "Add author name here"
+msgstr ""
+
+#: inc/elementor-widgets/social-icons/element.php:95
+msgid "Add icon label here"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:129
+#: inc/elementor-widgets/post-featured/element.php:129
+#: inc/elementor-widgets/post-grid/element.php:129
+#: inc/elementor-widgets/post-grid-alter/element.php:129
+#: inc/elementor-widgets/post-list/element.php:149
+msgid "Add label here..."
+msgstr ""
+
+#: inc/customizer/sections/header.php:102
+msgid "Add url to redirect ad image"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:110
+msgid "Add url to the given author here.."
+msgstr ""
+
+#: inc/elementor-widgets/social-icons/element.php:104
+msgid "Add url to the given icons here.."
+msgstr ""
+
+#: inc/template-functions.php:160 inc/template-functions.php:173
+#: inc/template-functions.php:186 inc/template-functions.php:198
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/sections/site-settings.php:114
+msgid "Align"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:162
+msgid "All"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:256
+msgid "All in one migration"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:125
+msgid "All Ready for demo import!! Setup your site exactly like demo"
+msgstr ""
+
+#: inc/customizer/sections/layouts.php:133
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:35
+msgid "Archive Page"
+msgstr ""
+
+#: inc/customizer/sections/sidebars.php:171
+msgid "Archive/Category Sidebar"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:165
+#: inc/elementor-widgets/post-featured/element.php:153
+#: inc/elementor-widgets/post-grid/element.php:165
+#: inc/elementor-widgets/post-grid-alter/element.php:165
+#: inc/elementor-widgets/post-list/element.php:185
+msgid "Ascending"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:21
+msgid "Author Box"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:82
+msgid "Author Content Setting"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:117
+msgid "Author Description"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:70
+msgid "Author Info"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:98
+#: inc/elementor-widgets/author-box/element.php:100
+msgid "Author Name"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:108
+msgid "Author URL"
+msgstr ""
+
+#: inc/elementor-widgets/post-list/element.php:77
+msgid "Available Layouts"
+msgstr ""
+
+#: inc/hooks/hooks.php:50
+msgid "Back to Top"
+msgstr ""
+
+#: inc/customizer/sections/category-colors.php:65
+#: inc/customizer/sections/menu.php:112 inc/customizer/sections/menu.php:151
+msgid "Black"
+msgstr ""
+
+#. Author of the theme
+msgid "Blaze Themes"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:68
+#: inc/elementor-widgets/post-carousel/element.php:91
+#: inc/elementor-widgets/post-featured/element.php:91
+#: inc/elementor-widgets/post-grid/element.php:91
+#: inc/elementor-widgets/post-grid-alter/element.php:91
+#: inc/elementor-widgets/post-list/element.php:111
+#: inc/elementor-widgets/social-icons/element.php:69
+msgid "Block Title"
+msgstr ""
+
+#: inc/customizer/sections/category-colors.php:61
+#: inc/customizer/sections/menu.php:108 inc/customizer/sections/menu.php:147
+msgid "Blue"
+msgstr ""
+
+#: functions.php:57
+msgid "Bottom Footer"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:167
+msgid "Bottom Footer Settings"
+msgstr ""
+
+#: inc/customizer/sections/layouts.php:115
+#: inc/customizer/sections/layouts.php:163
+msgid "Box Content Width"
+msgstr ""
+
+#: inc/customizer/sections/layouts.php:63
+msgid "Boxed Width"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:127
+#: inc/elementor-widgets/post-featured/element.php:127
+#: inc/elementor-widgets/post-grid/element.php:127
+#: inc/elementor-widgets/post-grid-alter/element.php:127
+#: inc/elementor-widgets/post-list/element.php:147
+msgid "Button Label"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:209
+msgid "Buy Now"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid "By "
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:59
+msgid ""
+"By activating Elementor, you can setup homepage customizing widgets provided "
+"by theme. Upgrade to Premium for Both Gutenberg Blocks And Elementor Widgets "
+"with multiple layouts"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:311
+msgid "Cancel"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:262
+msgid "Carousel Options"
+msgstr ""
+
+#: inc/customizer/sections/category-colors.php:22
+msgid "Category Colors"
+msgstr ""
+
+#: inc/template-functions.php:140
+msgid "collapse child menu"
+msgstr ""
+
+#: inc/elementor-widgets/social-icons/element.php:123
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:142
+msgid "Column One"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:134
+msgid "Column Three"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:138
+msgid "Column Two"
+msgstr ""
+
+#: inc/template-tags.php:139
+#: inc/elementor-widgets/post-carousel/template.php:112
+#: inc/elementor-widgets/post-featured/template.php:116
+#: inc/elementor-widgets/post-featured/template.php:177
+#: inc/elementor-widgets/post-grid/template.php:100
+#: inc/elementor-widgets/post-grid-alter/template.php:98
+#: inc/elementor-widgets/post-list/template-layout-one.php:73
+#: inc/elementor-widgets/post-list/template-layout-three.php:86
+#: inc/elementor-widgets/post-list/template-layout-two.php:91
+msgid "Comments"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/class-theme-info.php:433
+msgid ""
+"Congratulation!! You have successfully activated News Cast. Please install "
+"Elementor plugin to get all elementor blocks and create quick homepage layout"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:74
+msgid "Content"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-grid.php:47 template-parts/content-list.php:49
+#: template-parts/content-search.php:38 template-parts/content.php:51
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:437
+msgid "Customize Site"
+msgstr ""
+
+#: inc/customizer/extend-customizer/news-cast-customize-section.php:57
+msgid "Customizing"
+msgstr ""
+
+#: inc/customizer/extend-customizer/news-cast-customize-section.php:53
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:319
+msgid "Demo Import Progress"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:381
+msgid "Demo importer plugin activated"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:394
+msgid "Demo importer plugin installed and activated"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:166
+#: inc/elementor-widgets/post-featured/element.php:154
+#: inc/elementor-widgets/post-grid/element.php:166
+#: inc/elementor-widgets/post-grid-alter/element.php:166
+#: inc/elementor-widgets/post-list/element.php:186
+msgid "Descending"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:445
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:438
+msgid "Documentation"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:149 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:327
+#: inc/elementor-widgets/post-featured/element.php:275
+#: inc/elementor-widgets/post-grid/element.php:287
+#: inc/elementor-widgets/post-grid-alter/element.php:286
+#: inc/elementor-widgets/post-list/element.php:307
+msgid "Effect One"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:328
+#: inc/elementor-widgets/post-featured/element.php:276
+#: inc/elementor-widgets/post-grid/element.php:288
+#: inc/elementor-widgets/post-grid-alter/element.php:287
+#: inc/elementor-widgets/post-list/element.php:308
+msgid "Effect Two"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:270
+msgid "Enable fade animation"
+msgstr ""
+
+#: inc/customizer/sections/site-settings.php:91
+msgid "Enable Scroll To Top"
+msgstr ""
+
+#: inc/customizer/sections/site-settings.php:56
+msgid "Enable Sticky Header on Scroll Down"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:71
+#: inc/elementor-widgets/post-carousel/element.php:94
+#: inc/elementor-widgets/post-featured/element.php:94
+#: inc/elementor-widgets/post-grid/element.php:94
+#: inc/elementor-widgets/post-grid-alter/element.php:94
+#: inc/elementor-widgets/post-list/element.php:114
+#: inc/elementor-widgets/social-icons/element.php:72
+msgid "Enter title"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:398
+msgid "Error while trying to install or active the plugin."
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:73
+msgid "Excerpt"
+msgstr ""
+
+#: inc/template-functions.php:139
+msgid "expand child menu"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:301
+#: inc/elementor-widgets/post-featured/element.php:249
+#: inc/elementor-widgets/post-grid/element.php:261
+#: inc/elementor-widgets/post-grid-alter/element.php:260
+#: inc/elementor-widgets/post-list/element.php:281
+msgid "Extra Settings"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:191
+#: inc/customizer/sections/top-header.php:243
+#: inc/customizer/sections/top-header.php:295
+#: inc/elementor-widgets/social-icons/element.php:94
+#: inc/elementor-widgets/social-icons/element.php:140
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:190
+msgid "Filter bottom footer settings"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:79
+msgid "Filter footer settings"
+msgstr ""
+
+#: inc/customizer/sections/header.php:44
+msgid "Filter header settings"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:43
+msgid "Filter top header settings"
+msgstr ""
+
+#: inc/elementor-widgets/social-icons/element.php:71
+msgid "Follow Us"
+msgstr ""
+
+#: inc/template-functions.php:196
+#, php-format
+msgid "Footer Column %d"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:130
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:247
+msgid "Footer Logo Image"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:23
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:38
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:262
+msgid ""
+"For your website to look exactly like the demo,the import process will "
+"install and activate the following plugin if they are not installed or "
+"activated."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:193
+msgid "Free"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:116
+msgid "Free and Premium Demos"
+msgstr ""
+
+#: inc/customizer/sections/sidebars.php:37
+msgid "Frontpage Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/layouts.php:67
+#: inc/customizer/sections/layouts.php:111
+#: inc/customizer/sections/layouts.php:159
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:83 inc/customizer/sections/footer.php:194
+#: inc/customizer/sections/header.php:48
+#: inc/customizer/sections/top-header.php:47
+msgid "General"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:52
+#: inc/customizer/sections/innerpages.php:192
+msgid "General Content Settings"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:47
+#: inc/elementor-widgets/post-carousel/element.php:69
+#: inc/elementor-widgets/post-featured/element.php:69
+#: inc/elementor-widgets/post-grid/element.php:69
+#: inc/elementor-widgets/post-grid-alter/element.php:69
+#: inc/elementor-widgets/post-list/element.php:69
+#: inc/elementor-widgets/social-icons/element.php:47
+msgid "General Setting"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:210 inc/customizer/sections/header.php:64
+#: inc/customizer/sections/top-header.php:63
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:434
+msgid ""
+"Get started with creative multipurpose magazine theme and give your site a "
+"new look. It needs few steps to achieve what you need. We recommend you to "
+"please go through the documentation to get started with theme and setup "
+"homepage quicky."
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:71
+msgid "Go to Import"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:436
+msgid "Go To Install Demos"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:268
+msgid ""
+"Goto Appearance > Menus & assign non-empty menu to Bottom Footer in Menu "
+"Settings section"
+msgstr ""
+
+#: inc/customizer/sections/header.php:23
+msgid "Header Section"
+msgstr ""
+
+#: inc/template-functions.php:158
+msgid "Header Toggle Sidebar"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:57
+#: inc/elementor-widgets/author-box/element.php:59
+#: inc/elementor-widgets/post-carousel/element.php:80
+#: inc/elementor-widgets/post-carousel/element.php:82
+#: inc/elementor-widgets/post-carousel/element.php:116
+#: inc/elementor-widgets/post-carousel/element.php:118
+#: inc/elementor-widgets/post-carousel/element.php:177
+#: inc/elementor-widgets/post-carousel/element.php:179
+#: inc/elementor-widgets/post-carousel/element.php:191
+#: inc/elementor-widgets/post-carousel/element.php:193
+#: inc/elementor-widgets/post-carousel/element.php:205
+#: inc/elementor-widgets/post-carousel/element.php:207
+#: inc/elementor-widgets/post-carousel/element.php:219
+#: inc/elementor-widgets/post-carousel/element.php:221
+#: inc/elementor-widgets/post-carousel/element.php:233
+#: inc/elementor-widgets/post-carousel/element.php:235
+#: inc/elementor-widgets/post-carousel/element.php:247
+#: inc/elementor-widgets/post-carousel/element.php:249
+#: inc/elementor-widgets/post-carousel/element.php:273
+#: inc/elementor-widgets/post-carousel/element.php:275
+#: inc/elementor-widgets/post-carousel/element.php:287
+#: inc/elementor-widgets/post-carousel/element.php:289
+#: inc/elementor-widgets/post-featured/element.php:80
+#: inc/elementor-widgets/post-featured/element.php:82
+#: inc/elementor-widgets/post-featured/element.php:116
+#: inc/elementor-widgets/post-featured/element.php:118
+#: inc/elementor-widgets/post-featured/element.php:165
+#: inc/elementor-widgets/post-featured/element.php:167
+#: inc/elementor-widgets/post-featured/element.php:179
+#: inc/elementor-widgets/post-featured/element.php:181
+#: inc/elementor-widgets/post-featured/element.php:193
+#: inc/elementor-widgets/post-featured/element.php:195
+#: inc/elementor-widgets/post-featured/element.php:207
+#: inc/elementor-widgets/post-featured/element.php:209
+#: inc/elementor-widgets/post-featured/element.php:221
+#: inc/elementor-widgets/post-featured/element.php:223
+#: inc/elementor-widgets/post-featured/element.php:235
+#: inc/elementor-widgets/post-featured/element.php:237
+#: inc/elementor-widgets/post-grid/element.php:80
+#: inc/elementor-widgets/post-grid/element.php:82
+#: inc/elementor-widgets/post-grid/element.php:116
+#: inc/elementor-widgets/post-grid/element.php:118
+#: inc/elementor-widgets/post-grid/element.php:177
+#: inc/elementor-widgets/post-grid/element.php:179
+#: inc/elementor-widgets/post-grid/element.php:191
+#: inc/elementor-widgets/post-grid/element.php:193
+#: inc/elementor-widgets/post-grid/element.php:205
+#: inc/elementor-widgets/post-grid/element.php:207
+#: inc/elementor-widgets/post-grid/element.php:219
+#: inc/elementor-widgets/post-grid/element.php:221
+#: inc/elementor-widgets/post-grid/element.php:233
+#: inc/elementor-widgets/post-grid/element.php:235
+#: inc/elementor-widgets/post-grid/element.php:247
+#: inc/elementor-widgets/post-grid/element.php:249
+#: inc/elementor-widgets/post-grid-alter/element.php:80
+#: inc/elementor-widgets/post-grid-alter/element.php:82
+#: inc/elementor-widgets/post-grid-alter/element.php:116
+#: inc/elementor-widgets/post-grid-alter/element.php:118
+#: inc/elementor-widgets/post-grid-alter/element.php:177
+#: inc/elementor-widgets/post-grid-alter/element.php:179
+#: inc/elementor-widgets/post-grid-alter/element.php:191
+#: inc/elementor-widgets/post-grid-alter/element.php:193
+#: inc/elementor-widgets/post-grid-alter/element.php:205
+#: inc/elementor-widgets/post-grid-alter/element.php:207
+#: inc/elementor-widgets/post-grid-alter/element.php:219
+#: inc/elementor-widgets/post-grid-alter/element.php:221
+#: inc/elementor-widgets/post-grid-alter/element.php:233
+#: inc/elementor-widgets/post-grid-alter/element.php:235
+#: inc/elementor-widgets/post-grid-alter/element.php:247
+#: inc/elementor-widgets/post-grid-alter/element.php:249
+#: inc/elementor-widgets/post-list/element.php:100
+#: inc/elementor-widgets/post-list/element.php:102
+#: inc/elementor-widgets/post-list/element.php:136
+#: inc/elementor-widgets/post-list/element.php:138
+#: inc/elementor-widgets/post-list/element.php:197
+#: inc/elementor-widgets/post-list/element.php:199
+#: inc/elementor-widgets/post-list/element.php:211
+#: inc/elementor-widgets/post-list/element.php:213
+#: inc/elementor-widgets/post-list/element.php:225
+#: inc/elementor-widgets/post-list/element.php:227
+#: inc/elementor-widgets/post-list/element.php:239
+#: inc/elementor-widgets/post-list/element.php:241
+#: inc/elementor-widgets/post-list/element.php:253
+#: inc/elementor-widgets/post-list/element.php:255
+#: inc/elementor-widgets/post-list/element.php:267
+#: inc/elementor-widgets/post-list/element.php:269
+#: inc/elementor-widgets/social-icons/element.php:58
+#: inc/elementor-widgets/social-icons/element.php:60
+msgid "Hide"
+msgstr ""
+
+#: inc/template-functions.php:313
+msgid "Home"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:41
+msgid "HomePage Setup Info"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://blazethemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://blazethemes.com/theme/news-cast-free/"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:187
+#: inc/customizer/sections/top-header.php:239
+#: inc/customizer/sections/top-header.php:291
+#: inc/elementor-widgets/social-icons/element.php:111
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor-widgets/social-icons/element.php:92
+msgid "Icon Label"
+msgstr ""
+
+#: inc/elementor-widgets/social-icons/element.php:102
+msgid "Icon URL"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:217
+#: inc/customizer/sections/top-header.php:269
+#: inc/customizer/sections/top-header.php:321
+msgid "Icon Url"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:322
+#: inc/elementor-widgets/post-featured/element.php:270
+#: inc/elementor-widgets/post-grid/element.php:282
+#: inc/elementor-widgets/post-grid-alter/element.php:281
+#: inc/elementor-widgets/post-list/element.php:302
+msgid "Image Hover Type"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:310
+msgid "Import Demo"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:73
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:23
+msgid "InnerPages Setting"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:195
+#: inc/customizer/sections/top-header.php:247
+#: inc/customizer/sections/top-header.php:299
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:215
+msgid "Install"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:123
+msgid ""
+"Install BlazeThemes Demo Importer and Import any available demo in One Click"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:358
+msgid "Installed and Active"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:362
+msgid "Installed but Not Active"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:303
+msgid ""
+"It is always recommended to reset the database for a complete demo import."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:238
+msgid ""
+"It looks like the config file for the demos is missing or conatins errors!. "
+"Demo install can't go futher!"
+msgstr ""
+
+#: template-parts/content-none.php:48
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/sections/layouts.php:22
+msgid "Layouts Settings"
+msgstr ""
+
+#: inc/customizer/sections/sidebars.php:81
+#: inc/customizer/sections/sidebars.php:148
+#: inc/customizer/sections/sidebars.php:215
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/category-colors.php:53
+#: inc/customizer/sections/menu.php:100 inc/customizer/sections/menu.php:139
+msgid "Light Red"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:309
+#: inc/elementor-widgets/post-featured/element.php:257
+#: inc/elementor-widgets/post-grid/element.php:269
+#: inc/elementor-widgets/post-grid-alter/element.php:268
+#: inc/elementor-widgets/post-list/element.php:289
+msgid "Links open in"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:125
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-functions.php:236
+msgctxt "Lora: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:100
+msgid "Main Footer General Settings"
+msgstr ""
+
+#: inc/customizer/sections/layouts.php:37
+msgid "MAin Site Layout"
+msgstr ""
+
+#: inc/customizer/sections/menu.php:135
+msgid "Menu Border Bottom"
+msgstr ""
+
+#: inc/customizer/sections/menu.php:96
+msgid "Menu Border Top"
+msgstr ""
+
+#: inc/customizer/sections/menu.php:57
+msgid "Menu Hover Effect 1"
+msgstr ""
+
+#: inc/customizer/sections/menu.php:58
+msgid "Menu Hover Effect none"
+msgstr ""
+
+#: inc/customizer/sections/menu.php:22
+msgid "Menu Section"
+msgstr ""
+
+#: inc/customizer/sections/menu.php:74
+msgid "Menu Styling/Colors"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:314
+#: inc/elementor-widgets/post-featured/element.php:262
+#: inc/elementor-widgets/post-grid/element.php:274
+#: inc/elementor-widgets/post-grid-alter/element.php:273
+#: inc/elementor-widgets/post-list/element.php:294
+msgid "New Tab"
+msgstr ""
+
+#. Name of the theme
+msgid "News Cast"
+msgstr ""
+
+#: inc/elementor-widgets/elementor.php:140
+msgid "News Cast Elements"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:78 inc/admin/class-theme-info.php:79
+msgid "News Cast Info"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"News Cast is the elementor based news theme gives perfect layouts to your "
+"news websites. Specifically made for branded news websites built with "
+"WordPress. It perfectly integrates with Elementor and Gutenberg page "
+"builders - you can manage your website pages with popular website builders "
+"in this theme. It has advanced features like sticky header, menu hover "
+"effects, category colors, social icons options, show or hide post elements, "
+"header toggle sidebars option, site layouts, footer columns, archive "
+"settings and many more. You must activate Elementor Plugin to get all the "
+"widgets provided by theme. Theme provides 7 elementor widgets Social Icons, "
+"Post Grid, Post List, Post Grid Alter, Post Carousel, Post Featured and "
+"author Box. Although, its homepage section are build with elementor page "
+"builder it has numerous generic settings in customizer. You can manage "
+"social icons, site colors, menu styling, category colors, archive and single "
+"pages layouts, header settings and footer settings in cutomizer. We have "
+"well-documented theme documentation available here https://doc.blazethemes."
+"com/news-cast/. For easy user guide we have video tutorials on demo import "
+"and homepage setup : https://blazethemes.com/theme/news-cast. Live Demo URL: "
+"https://demo.blazethemes.com/news-cast/"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:93
+msgid "News Cast Post Carousel Title"
+msgstr ""
+
+#: inc/elementor-widgets/post-featured/element.php:93
+msgid "News Cast Post Featured Title"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid-alter/element.php:93
+msgid "News Cast Post Grid Alter Title"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid/element.php:93
+msgid "News Cast Post Grid Title"
+msgstr ""
+
+#: inc/elementor-widgets/post-list/element.php:113
+msgid "News Cast Post List Title"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:427
+msgid "News Cast Welcome Notice"
+msgstr ""
+
+#: single.php:27
+msgid "Next"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/template.php:22
+#: inc/elementor-widgets/post-featured/template.php:25
+#: inc/elementor-widgets/post-grid/template.php:20
+#: inc/elementor-widgets/post-grid-alter/template.php:21
+#: inc/elementor-widgets/post-list/template-layout-one.php:20
+#: inc/elementor-widgets/post-list/template-layout-three.php:20
+#: inc/elementor-widgets/post-list/template-layout-two.php:20
+msgid "No posts found"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:293
+msgid "No Required Plugins Found."
+msgstr ""
+
+#: inc/hooks/top-header-hooks.php:38
+msgid "No tags found"
+msgstr ""
+
+#: inc/hooks/header-hooks.php:128
+msgid ""
+"No widgets are assigned to this sidebar. Go to your Dashboard > Widgets > "
+"Assign widgets to Header Toggle Sidebar"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:326
+#: inc/elementor-widgets/post-featured/element.php:274
+#: inc/elementor-widgets/post-grid/element.php:286
+#: inc/elementor-widgets/post-grid-alter/element.php:285
+#: inc/elementor-widgets/post-list/element.php:306
+msgid "None"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:354
+msgid "Not Installed"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/template-functions.php:240
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:161
+#: inc/elementor-widgets/post-featured/element.php:149
+#: inc/elementor-widgets/post-grid/element.php:161
+#: inc/elementor-widgets/post-grid-alter/element.php:161
+#: inc/elementor-widgets/post-list/element.php:181
+msgid "Order"
+msgstr ""
+
+#: inc/template-functions.php:184
+msgid "Page Sidebar"
+msgstr ""
+
+#: template-parts/content-grid.php:62 template-parts/content-list.php:64
+#: template-parts/content-page.php:25 template-parts/content.php:66
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:194
+#: inc/customizer/sections/top-header.php:246
+#: inc/customizer/sections/top-header.php:298
+msgid "Pinterest"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:75
+#, php-format
+msgctxt "post author"
+msgid "%1$s %2$1s"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:22
+msgid "Post Carousel"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:104
+#: inc/elementor-widgets/post-featured/element.php:104
+#: inc/elementor-widgets/post-grid/element.php:104
+#: inc/elementor-widgets/post-grid-alter/element.php:104
+#: inc/elementor-widgets/post-list/element.php:124
+msgid "Post Categories"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:71
+msgid "Post Content to display"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:149
+#: inc/elementor-widgets/post-grid/element.php:149
+#: inc/elementor-widgets/post-grid-alter/element.php:149
+#: inc/elementor-widgets/post-list/element.php:169
+msgid "Post Count"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post date"
+msgid "%1$1s %2$1s"
+msgstr ""
+
+#: inc/elementor-widgets/post-featured/element.php:22
+msgid "Post Featured"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid/element.php:22
+msgid "Post Grid"
+msgstr ""
+
+#: inc/elementor-widgets/post-grid-alter/element.php:22
+msgid "Post Grid Alter"
+msgstr ""
+
+#: inc/elementor-widgets/post-list/element.php:22
+msgid "Post List"
+msgstr ""
+
+#: inc/customizer/sections/layouts.php:85
+msgid "Post/Page Layout"
+msgstr ""
+
+#: inc/customizer/sections/sidebars.php:104
+msgid "Post/Page Sidebar"
+msgstr ""
+
+#: inc/template-tags.php:65 inc/template-tags.php:71
+msgid "Posted by: "
+msgstr ""
+
+#: inc/template-tags.php:91 inc/template-tags.php:95 inc/template-tags.php:98
+#: inc/template-tags.php:119 inc/template-tags.php:122
+msgid "Posted in : "
+msgstr ""
+
+#: inc/template-tags.php:16 inc/template-tags.php:22 inc/template-tags.php:28
+msgid "Posted on "
+msgstr ""
+
+#: inc/admin/class-theme-info.php:190
+msgid "Premium"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:202
+msgid "Preview"
+msgstr ""
+
+#: single.php:26
+msgid "Previous"
+msgstr ""
+
+#: functions.php:55
+msgid "Primary"
+msgstr ""
+
+#: inc/hooks/header-hooks.php:146
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer/sections/menu.php:37
+msgid "Primary Menu Hover Effect"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:141
+#: inc/elementor-widgets/post-featured/element.php:141
+#: inc/elementor-widgets/post-grid/element.php:141
+#: inc/elementor-widgets/post-grid-alter/element.php:141
+#: inc/elementor-widgets/post-list/element.php:161
+msgid "Query Setting"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:130
+#: inc/elementor-widgets/post-featured/element.php:130
+#: inc/elementor-widgets/post-grid/element.php:130
+#: inc/elementor-widgets/post-grid-alter/element.php:130
+#: inc/elementor-widgets/post-list/element.php:150
+msgid "Read more"
+msgstr ""
+
+#: inc/hooks/hooks.php:19
+msgid "Read more . . "
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer/sections/category-colors.php:57
+#: inc/customizer/sections/menu.php:104 inc/customizer/sections/menu.php:143
+msgid "Red"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:261
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:301
+msgid "Reset Website"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:302
+msgid ""
+"Reseting the website will delete all your post, pages, custom post types, "
+"categories, taxonomies, images and all other customizer and theme option "
+"settings."
+msgstr ""
+
+#: inc/customizer/sections/sidebars.php:85
+#: inc/customizer/sections/sidebars.php:152
+#: inc/customizer/sections/sidebars.php:219
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:313
+#: inc/elementor-widgets/post-featured/element.php:261
+#: inc/elementor-widgets/post-grid/element.php:273
+#: inc/elementor-widgets/post-grid-alter/element.php:272
+#: inc/elementor-widgets/post-list/element.php:293
+msgid "Same Tab"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "Screen reader text"
+msgid "Search for:"
+msgstr ""
+
+#: inc/customizer/sections/site-settings.php:73
+msgid "Scroll To Top Setting"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "Search field placeholder"
+msgid "Enter search words"
+msgstr ""
+
+#: search.php:23
+msgid "Search Results for:"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:99
+msgid "Setup Tutorials"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:56
+#: inc/elementor-widgets/author-box/element.php:58
+#: inc/elementor-widgets/post-carousel/element.php:79
+#: inc/elementor-widgets/post-carousel/element.php:81
+#: inc/elementor-widgets/post-carousel/element.php:115
+#: inc/elementor-widgets/post-carousel/element.php:117
+#: inc/elementor-widgets/post-carousel/element.php:176
+#: inc/elementor-widgets/post-carousel/element.php:178
+#: inc/elementor-widgets/post-carousel/element.php:190
+#: inc/elementor-widgets/post-carousel/element.php:192
+#: inc/elementor-widgets/post-carousel/element.php:204
+#: inc/elementor-widgets/post-carousel/element.php:206
+#: inc/elementor-widgets/post-carousel/element.php:218
+#: inc/elementor-widgets/post-carousel/element.php:220
+#: inc/elementor-widgets/post-carousel/element.php:232
+#: inc/elementor-widgets/post-carousel/element.php:234
+#: inc/elementor-widgets/post-carousel/element.php:246
+#: inc/elementor-widgets/post-carousel/element.php:248
+#: inc/elementor-widgets/post-carousel/element.php:272
+#: inc/elementor-widgets/post-carousel/element.php:274
+#: inc/elementor-widgets/post-carousel/element.php:286
+#: inc/elementor-widgets/post-carousel/element.php:288
+#: inc/elementor-widgets/post-featured/element.php:79
+#: inc/elementor-widgets/post-featured/element.php:81
+#: inc/elementor-widgets/post-featured/element.php:115
+#: inc/elementor-widgets/post-featured/element.php:117
+#: inc/elementor-widgets/post-featured/element.php:164
+#: inc/elementor-widgets/post-featured/element.php:166
+#: inc/elementor-widgets/post-featured/element.php:178
+#: inc/elementor-widgets/post-featured/element.php:180
+#: inc/elementor-widgets/post-featured/element.php:192
+#: inc/elementor-widgets/post-featured/element.php:194
+#: inc/elementor-widgets/post-featured/element.php:206
+#: inc/elementor-widgets/post-featured/element.php:208
+#: inc/elementor-widgets/post-featured/element.php:220
+#: inc/elementor-widgets/post-featured/element.php:222
+#: inc/elementor-widgets/post-featured/element.php:234
+#: inc/elementor-widgets/post-featured/element.php:236
+#: inc/elementor-widgets/post-grid/element.php:79
+#: inc/elementor-widgets/post-grid/element.php:81
+#: inc/elementor-widgets/post-grid/element.php:115
+#: inc/elementor-widgets/post-grid/element.php:117
+#: inc/elementor-widgets/post-grid/element.php:176
+#: inc/elementor-widgets/post-grid/element.php:178
+#: inc/elementor-widgets/post-grid/element.php:190
+#: inc/elementor-widgets/post-grid/element.php:192
+#: inc/elementor-widgets/post-grid/element.php:204
+#: inc/elementor-widgets/post-grid/element.php:206
+#: inc/elementor-widgets/post-grid/element.php:218
+#: inc/elementor-widgets/post-grid/element.php:220
+#: inc/elementor-widgets/post-grid/element.php:232
+#: inc/elementor-widgets/post-grid/element.php:234
+#: inc/elementor-widgets/post-grid/element.php:246
+#: inc/elementor-widgets/post-grid/element.php:248
+#: inc/elementor-widgets/post-grid-alter/element.php:79
+#: inc/elementor-widgets/post-grid-alter/element.php:81
+#: inc/elementor-widgets/post-grid-alter/element.php:115
+#: inc/elementor-widgets/post-grid-alter/element.php:117
+#: inc/elementor-widgets/post-grid-alter/element.php:176
+#: inc/elementor-widgets/post-grid-alter/element.php:178
+#: inc/elementor-widgets/post-grid-alter/element.php:190
+#: inc/elementor-widgets/post-grid-alter/element.php:192
+#: inc/elementor-widgets/post-grid-alter/element.php:204
+#: inc/elementor-widgets/post-grid-alter/element.php:206
+#: inc/elementor-widgets/post-grid-alter/element.php:218
+#: inc/elementor-widgets/post-grid-alter/element.php:220
+#: inc/elementor-widgets/post-grid-alter/element.php:232
+#: inc/elementor-widgets/post-grid-alter/element.php:234
+#: inc/elementor-widgets/post-grid-alter/element.php:246
+#: inc/elementor-widgets/post-grid-alter/element.php:248
+#: inc/elementor-widgets/post-list/element.php:99
+#: inc/elementor-widgets/post-list/element.php:101
+#: inc/elementor-widgets/post-list/element.php:135
+#: inc/elementor-widgets/post-list/element.php:137
+#: inc/elementor-widgets/post-list/element.php:196
+#: inc/elementor-widgets/post-list/element.php:198
+#: inc/elementor-widgets/post-list/element.php:210
+#: inc/elementor-widgets/post-list/element.php:212
+#: inc/elementor-widgets/post-list/element.php:224
+#: inc/elementor-widgets/post-list/element.php:226
+#: inc/elementor-widgets/post-list/element.php:238
+#: inc/elementor-widgets/post-list/element.php:240
+#: inc/elementor-widgets/post-list/element.php:252
+#: inc/elementor-widgets/post-list/element.php:254
+#: inc/elementor-widgets/post-list/element.php:266
+#: inc/elementor-widgets/post-list/element.php:268
+#: inc/elementor-widgets/social-icons/element.php:57
+#: inc/elementor-widgets/social-icons/element.php:59
+msgid "Show"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:188
+#: inc/elementor-widgets/post-featured/element.php:176
+#: inc/elementor-widgets/post-grid/element.php:188
+#: inc/elementor-widgets/post-grid-alter/element.php:188
+#: inc/elementor-widgets/post-list/element.php:208
+msgid "Show author"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:54
+#: inc/elementor-widgets/post-carousel/element.php:77
+#: inc/elementor-widgets/post-featured/element.php:77
+#: inc/elementor-widgets/post-grid/element.php:77
+#: inc/elementor-widgets/post-grid-alter/element.php:77
+#: inc/elementor-widgets/post-list/element.php:97
+#: inc/elementor-widgets/social-icons/element.php:55
+msgid "Show block title"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:202
+#: inc/elementor-widgets/post-featured/element.php:190
+#: inc/elementor-widgets/post-grid/element.php:202
+#: inc/elementor-widgets/post-grid-alter/element.php:202
+#: inc/elementor-widgets/post-list/element.php:222
+msgid "Show categories"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:230
+#: inc/elementor-widgets/post-featured/element.php:218
+#: inc/elementor-widgets/post-grid/element.php:230
+#: inc/elementor-widgets/post-grid-alter/element.php:230
+#: inc/elementor-widgets/post-list/element.php:250
+msgid "Show comments number"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:244
+#: inc/elementor-widgets/post-featured/element.php:232
+#: inc/elementor-widgets/post-grid/element.php:244
+#: inc/elementor-widgets/post-grid-alter/element.php:244
+#: inc/elementor-widgets/post-list/element.php:264
+msgid "Show content"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:284
+msgid "Show control buttons"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:174
+#: inc/elementor-widgets/post-featured/element.php:162
+#: inc/elementor-widgets/post-grid/element.php:174
+#: inc/elementor-widgets/post-grid-alter/element.php:174
+#: inc/elementor-widgets/post-list/element.php:194
+msgid "Show date"
+msgstr ""
+
+#: inc/customizer/sections/sidebars.php:189
+msgid "Show on archive"
+msgstr ""
+
+#: inc/customizer/sections/sidebars.php:55
+msgid "Show on frontpage"
+msgstr ""
+
+#: inc/customizer/sections/sidebars.php:122
+msgid "Show on post/page"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:113
+#: inc/elementor-widgets/post-featured/element.php:113
+#: inc/elementor-widgets/post-grid/element.php:113
+#: inc/elementor-widgets/post-grid-alter/element.php:113
+#: inc/elementor-widgets/post-list/element.php:133
+msgid "Show read more button"
+msgstr ""
+
+#: inc/elementor-widgets/post-carousel/element.php:216
+#: inc/elementor-widgets/post-featured/element.php:204
+#: inc/elementor-widgets/post-grid/element.php:216
+#: inc/elementor-widgets/post-grid-alter/element.php:216
+#: inc/elementor-widgets/post-list/element.php:236
+msgid "Show tags"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:113
+msgid "Show/Hide Current Date"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:267
+msgid "Show/Hide footer menu"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:56
+msgid "Show/Hide footer section"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:229
+msgid "Show/Hide footer site logo"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:288
+msgid "Show/Hide footer social icons"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:138
+msgid "Show/Hide Menu"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:107
+#: inc/customizer/sections/innerpages.php:228
+msgid "Show/Hide post author"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:125
+#: inc/customizer/sections/innerpages.php:246
+msgid "Show/Hide post categories"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:89
+#: inc/customizer/sections/innerpages.php:210
+msgid "Show/Hide post date"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:143
+#: inc/customizer/sections/innerpages.php:264
+msgid "Show/Hide post tags"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:161
+msgid "Show/Hide read more"
+msgstr ""
+
+#: inc/customizer/sections/header.php:138
+msgid "Show/Hide search bar"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:163
+msgid "Show/Hide Social Icons"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:88
+msgid "Show/Hide Tags"
+msgstr ""
+
+#: inc/customizer/sections/header.php:119
+msgid "Show/Hide toggle sidebar"
+msgstr ""
+
+#: inc/template-functions.php:171
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/sidebars.php:22
+msgid "Sidebar Layouts"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:175
+msgid "Single Page"
+msgstr ""
+
+#: inc/customizer/sections/site-settings.php:23
+msgid "Site Settings"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: inc/elementor-widgets/social-icons/element.php:21
+#: inc/elementor-widgets/social-icons/element.php:135
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:289
+msgid "social icons links"
+msgstr ""
+
+#: inc/elementor-widgets/social-icons/element.php:83
+msgid "Social Icons Setting"
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/sections/site-settings.php:38
+msgid "Sticky Header Setting"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:105 inc/admin/class-theme-info.php:440
+msgid "Support"
+msgstr ""
+
+#: inc/template-tags.php:115
+msgid "Tagged : "
+msgstr ""
+
+#: inc/admin/class-theme-info.php:111
+msgid "Theme demo"
+msgstr ""
+
+#: inc/customizer/customizer.php:53
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:439
+msgid "Theme Page"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:258
+msgid ""
+"This process will install all the required plugins, import contents and "
+"setup customizer and theme options."
+msgstr ""
+
+#: functions.php:56
+msgid "Top Header"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:22
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/hooks/top-header-hooks.php:32
+msgid "Trending"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:193
+#: inc/customizer/sections/top-header.php:245
+#: inc/customizer/sections/top-header.php:297
+msgid "Twitter"
+msgstr ""
+
+#: inc/elementor-widgets/author-box/element.php:90
+msgid "Upload author image"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:248
+msgid "Upload image suitable for footer logo area"
+msgstr ""
+
+#: inc/customizer/sections/header.php:83
+msgid "Upload image suitable for header ad area"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:27
+msgid "View Premium"
+msgstr ""
+
+#: inc/customizer/sections/top-header.php:192
+#: inc/customizer/sections/top-header.php:244
+#: inc/customizer/sections/top-header.php:296
+msgid "Vimeo"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:256
+#, php-format
+msgid ""
+"We recommend you backup your website content before attempting to import the "
+"demo so that you can recover your website if something goes wrong. You can "
+"use %s plugin for it."
+msgstr ""
+
+#: inc/template-functions.php:129
+msgid "WordPress Theme | News Cast by "
+msgstr ""

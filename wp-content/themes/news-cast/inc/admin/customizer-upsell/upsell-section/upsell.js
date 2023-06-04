@@ -1,0 +1,1 @@
+!function(t){t.sectionConstructor["news-cast-upsell-button"]=t.Section.extend({attachEvents:function(){},isContextuallyActive:function(){return!0}})}(wp.customize);
